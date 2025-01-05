@@ -1,0 +1,14 @@
+.~*
+*.log
+*.zip
+dist/**/*.ppt
+dist/**/*.pps
+dist/**/*.pptx
+dist/**/*.ppsx
+dist/**/*.psd
+dist/**/*.jpg
+dist/**/*.png
+dist/**/*.mp4
+build/
+!modelos/
+!modelos/*
