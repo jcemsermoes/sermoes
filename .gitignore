@@ -11,4 +11,5 @@ dist/**/*.png
 dist/**/*.mp4
 build/
 !modelos/
-!modelos/*
+!modelos/
+!pub/*
