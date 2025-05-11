@@ -1,0 +1,10 @@
+{
+    "https://media2.egwwritings.org/pdf/en_GCDB.pdf": {
+        "acesso": 1746943018,
+        "sha256": "dfe4cd53e4d9a89c5e55893d6401a4a41f88f01deb6f73742c5aa3ca6e34130b"
+    },
+    "https://media2.egwwritings.org/epub/en_GCDB.epub": {
+        "acesso": 1746943018,
+        "sha256": "40cc5bd9e65308131357db021db16245a6bb36b7069b8c77c5b7f612b2fa26e0"
+    }
+}

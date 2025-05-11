@@ -1,0 +1,10 @@
+{
+    "https://media2.egwwritings.org/pdf/en_SR.pdf": {
+        "acesso": 1746941250,
+        "sha256": "f0418048753b3083a5a40bed983a7903395f0af037a9b719bff918606598cb55"
+    },
+    "https://media2.egwwritings.org/epub/en_SR.epub": {
+        "acesso": 1746941251,
+        "sha256": "c128a0cdb4773d0bee617eb2f09f8c10a0a3771ce35c1943729b98a058fdac6b"
+    }
+}

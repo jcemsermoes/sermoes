@@ -1,0 +1,10 @@
+{
+    "https://media2.egwwritings.org/pdf/en_ApM.pdf": {
+        "acesso": 1746941818,
+        "sha256": "eddbcbffa9e3f423d68e6d95034d5740e1f6d06819167784250b04fa06a77a14"
+    },
+    "https://media2.egwwritings.org/epub/en_ApM.epub": {
+        "acesso": 1746941818,
+        "sha256": "27e97f0fe6f9c3ac1e6b0143c1ee4dc9ef42717119c3b576716d3a0f243c3d5e"
+    }
+}

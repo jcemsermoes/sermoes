@@ -1,0 +1,10 @@
+{
+    "https://media2.egwwritings.org/pdf/en_LLM.pdf": {
+        "acesso": 1746941825,
+        "sha256": "5baab313b6d43fcdbd88c9acccf3615cc7979c881c0be32962d182cf15406ad3"
+    },
+    "https://media2.egwwritings.org/epub/en_LLM.epub": {
+        "acesso": 1746941825,
+        "sha256": "9e375958d60bf32621736a62b5a6f3730c5b563939fc7775c22206e1c506bd42"
+    }
+}

@@ -87,10 +87,10 @@ def download_file(url, dest_path, filename=None, thread_id=None, progress=''):
                 bar.update(size)
 
         if os.path.exists(full_path) and os.path.getsize(full_path) > 0:                                             
-            print(f"{GREEN}[{thread_id}] [{progress}] [✓] baixado.......: '{full_path}'.{RESET}")
+            print(f"{GREEN}[{thread_id}] [{progress}] [✓] baixado.......: '{filename or url}'.{RESET}")
             return full_path
         else:
-            print(f"{YELLOW}[{thread_id}] [{progress}] [W] Falha/Vazio...: '{full_path}'{RESET}")
+            print(f"{YELLOW}[{thread_id}] [{progress}] [W] Falha/Vazio...: '{filename or url}'{RESET}")
 
     except Exception as e:                                          
         print(f"{RED}[{thread_id}] [{progress}] [ERRO] Falha baixa...: '{filename or url}': {e}{RESET}")

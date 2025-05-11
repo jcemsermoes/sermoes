@@ -1,0 +1,10 @@
+{
+    "https://media2.egwwritings.org/pdf/en_Ev.pdf": {
+        "acesso": 1746941005,
+        "sha256": "60282ed3f5fcaf71bc12b1bdcc5a1ec525d18e0b2d68cf34acb45f7bef789fd2"
+    },
+    "https://media2.egwwritings.org/epub/en_Ev.epub": {
+        "acesso": 1746941005,
+        "sha256": "d9da544d466abf73c9ccb656df46f3def0eda775cdbb64a53b845c6cb86a7abb"
+    }
+}
