@@ -61,7 +61,7 @@ def get_sha256_hash(file_path):
             sha256_hash.update(byte_block)
     return sha256_hash.hexdigest()
 
-def download_file(url, dest_path, filename=None, thread_id=None):    
+def download_file(url, dest_path, filename=None, thread_id=None, arquivos_baixados=0, total_livros=0):    
     try:
         response = requests.get(url, stream=True, timeout=10)
         if not filename:
@@ -72,8 +72,8 @@ def download_file(url, dest_path, filename=None, thread_id=None):
         total = int(response.headers.get('content-length', 0))
 
         if os.path.exists(full_path) and os.path.getsize(full_path) > 0:            
-            print(f"{GREEN}[{thread_id}] [✓] já no destino: '{filename}'.{RESET}")
-            return full_path  # Retorna o caminho para o cálculo do hash        
+            print(f"{GREEN}[{thread_id}] [{arquivos_baixados}/{total_livros}] [✓] Já no destino.: '{filename}'.{RESET}")
+            return full_path
 
         with open(full_path, 'wb') as file, tqdm(
             desc=filename,
@@ -86,21 +86,25 @@ def download_file(url, dest_path, filename=None, thread_id=None):
                 size = file.write(data)
                 bar.update(size)
 
-        if os.path.exists(full_path) and os.path.getsize(full_path) > 0:
-            print(f"{GREEN}[{thread_id}] [✓] baixado: '{full_path}'.{RESET}")
+        if os.path.exists(full_path) and os.path.getsize(full_path) > 0:                                             
+            print(f"{GREEN}[{thread_id}] [{arquivos_baixados}/{total_livros}] [✓] baixado.......: '{full_path}'.{RESET}")
+            return full_path
         else:
-            print(f"{YELLOW}[{thread_id}] [W] Arquivo vazio ou não salvo corretamente: {full_path}{RESET}")
+            print(f"{YELLOW}[{thread_id}] [{arquivos_baixados}/{total_livros}] [W] Falha/Vazio...: '{full_path}'{RESET}")
 
-    except Exception as e:
-        print(f"{RED}[{thread_id}] [ERRO] Falha ao baixar {filename or url}: {e}{RESET}")
+    except Exception as e:                                          
+        print(f"{RED}[{thread_id}] [{arquivos_baixados}/{total_livros}] [ERRO] Falha baixa...: '{filename or url}': {e}{RESET}")
         return None
+    
+    return False
 
-def create_source_json(title, download_dir, refs, thread_id):
+
+def create_source_json(title, download_dir, refs, thread_id, arquivos_baixados=0, total_livros=0):
     if refs:  # Só cria o arquivo se houver pelo menos uma URL        
         source_file = os.path.join(download_dir, f"{limpar_nome_arquivo(title)}.source.json")
         with open(source_file, 'w') as json_file:
-            json.dump(refs, json_file, indent=4)
-        print(f"{GREEN}[{thread_id}] [✓] criado: '{limpar_nome_arquivo(title)}.source.json'.{RESET}")
+            json.dump(refs, json_file, indent=4)                                         
+        print(f"{GREEN}[{thread_id}] [{arquivos_baixados}/{total_livros}] [✓] Criado........: '{limpar_nome_arquivo(title)}.source.json'.{RESET}")
 
 def registrar_falha(titulo, erro, url, exception=None, traceback_info=None, thread_id=None):
     global falhas
@@ -158,11 +162,11 @@ def main(url, download_dir, thread_id):
 
         # Mover o mouse até o botão e clicar
         actions.move_to_element(ripple_button).click().perform()
-        print(f"{GREEN}[{thread_id}] [I] Botão Ripple clicado com sucesso.{RESET}")
+        print(f"{GREEN}[{thread_id}] [I] Clicado.......: Botão Ripple.{RESET}")
         time.sleep(1)  # Esperar um pouco para a ação surtir efeito
 
     except Exception as e:
-        print(f"{YELLOW}[{thread_id}] [w] Botão Ripple não encontrado ou falha ao clicar: {e}{RESET}")
+        print(f"{YELLOW}[{thread_id}] [w] Não encontrado: Botão Ripple não encontrado ou falha ao clicar: {e}{RESET}")
 
     # Scroll para carregar todos os livros dinamicamente
     last_height = driver.execute_script("return document.body.scrollHeight")
@@ -188,7 +192,7 @@ def main(url, download_dir, thread_id):
 
     books = driver.find_elements(By.CLASS_NAME, "book-list-item")
 
-    print(f"{GREEN}[{thread_id}] [✓] Encontrados {len(books)} livros para download.{RESET}")
+    print(f"{GREEN}[{thread_id}] [{arquivos_baixados}/{len(books)*2}] [✓] Encontrados {len(books)} livros para download.{RESET}")
 
     for book in books:
         try:            
@@ -207,7 +211,7 @@ def main(url, download_dir, thread_id):
 
             download_panels = book.find_elements(By.CLASS_NAME, "book-download-links")
             if not download_panels:
-                print(f"{YELLOW}[{thread_id}] [w] ({title}): Painel de download não encontrado.{RESET}")
+                print(f"{YELLOW}[{thread_id}] [{arquivos_baixados}/{len(books)*2}] [w] ({title}): Painel de download não encontrado.{RESET}")
                 continue
 
             download_panel = download_panels[0]            
@@ -219,33 +223,33 @@ def main(url, download_dir, thread_id):
 
             for link in links:
                 href = link.get_attribute("href")
-                if href.endswith(".pdf"):
-                    print(f"{BLUE}[{thread_id}] [I] Baixando: '{title}' (PDF)...{RESET}")
-                    downloaded_file = download_file(href, download_dir, f"{title}.pdf", thread_id)
-                    if downloaded_file:
+                if href.endswith(".pdf"):                                                    
+                    print(f"{BLUE}[{thread_id}] [{arquivos_baixados}/{len(books)*2}] [I] Baixando......: '{title}' (PDF)...{RESET}")
+                    downloaded_file = download_file(href, download_dir, f"{title}.pdf", thread_id, arquivos_baixados, len(books)*2)
+
+                    if downloaded_file and os.path.exists(downloaded_file) and os.path.getsize(downloaded_file) > 0:
                         timestamp = int(time.time())
                         sha256_hash = get_sha256_hash(downloaded_file)
                         refs[href] = {"acesso": timestamp, "sha256": sha256_hash}
                         has_download = True
+
+                        arquivos_baixados += 1
+
                 elif href.endswith(".epub"):
-                    print(f"{BLUE}[{thread_id}] [I] Baixando: '{title}' (EPUB)...{RESET}")
-                    downloaded_file = download_file(href, download_dir, f"{title}.epub", thread_id)
-                    if downloaded_file:
+                    print(f"{BLUE}[{thread_id}] [{arquivos_baixados}/{len(books)*2}] [I] Baixando......: '{title}' (EPUB)...{RESET}")
+                    downloaded_file = download_file(href, download_dir, f"{title}.epub", thread_id, arquivos_baixados, len(books)*2)
+                    if downloaded_file and os.path.exists(os.path.join(download_dir, f"{title}.pdf")) and os.path.getsize(os.path.join(download_dir, f"{title}.pdf")) > 0:
                         timestamp = int(time.time())
                         sha256_hash = get_sha256_hash(downloaded_file)
                         refs[href] = {"acesso": timestamp, "sha256": sha256_hash}
                         has_download = True
-
-            if os.path.exists(os.path.join(download_dir, f"{title}.epub")) and os.path.getsize(os.path.join(download_dir, f"{title}.epub")) > 0:
-                arquivos_baixados += 1
-
-            if  os.path.exists(os.path.join(download_dir, f"{title}.pdf")) and os.path.getsize(os.path.join(download_dir, f"{title}.pdf")) > 0:
-                arquivos_baixados += 1
+                        
+                        arquivos_baixados += 1
 
             if has_download:
                 livros_baixados += 1
                 # Criar o arquivo .source.json com as URLs dos arquivos baixados
-                create_source_json(title, download_dir, refs, thread_id)
+                create_source_json(title, download_dir, refs, thread_id, arquivos_baixados, len(books)*2)
 
             # Injetando JavaScript para esconder o painel de sobreposição exibido atualmente e evitar erros
             driver.execute_script(""" 
@@ -256,8 +260,8 @@ def main(url, download_dir, thread_id):
             """)
             time.sleep(1)  # Pausa para garantir que o painel foi ocultado
 
-        except Exception as e:
-            print(f"{RED}[{thread_id}] [ERRO] Falha ao processar '{title}': {e}{RESET}")
+        except Exception as e:                                              
+            print(f"{RED}[{thread_id}] [{arquivos_baixados}/{len(books)*2}] [ERRO] Falha.........: '{title}': {e}{RESET}")
             
             # Capturando o traceback completo
             tb = traceback.format_exc()
