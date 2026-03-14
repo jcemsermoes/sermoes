@@ -3,6 +3,7 @@ Corrija o artigo abaixo, considerando:
 - IMPORTANTE: sem alterar a essência do texto nem o estilo linguístico original;
 - preserve as palavras maiúsculas como maiúsculas como indicador de enfase entonal;
 - Reforçar e adicionar referências em pontos exatatos, onde carente;
+- Não perca nenhum detalhe;
 - Reorganizar a ordem dos parágrafos para melhorar a lógica e a evolução/fluidez do raciocínio;
 - Acrescentar mais textos de egw e bíblico exatamente no pontos chaves, desde que o textos contenham referências e sejam exatos (passíveis de conferência);
 - Mantenha um estilo de artigos rico em referências;
