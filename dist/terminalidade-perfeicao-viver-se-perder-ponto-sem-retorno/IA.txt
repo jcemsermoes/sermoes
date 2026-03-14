@@ -1,0 +1,17 @@
+
+Corrija o artigo abaixo, considerando:
+- IMPORTANTE: sem alterar a essência do texto nem o estilo linguístico original;
+- preserve as palavras maiúsculas como maiúsculas como indicador de enfase entonal;
+- Reforçar e adicionar referências em pontos exatatos, onde carente;
+- Reorganizar a ordem dos parágrafos para melhorar a lógica e a evolução/fluidez do raciocínio;
+- Acrescentar mais textos de egw e bíblico exatamente no pontos chaves, desde que o textos contenham referências e sejam exatos (passíveis de conferência);
+- Mantenha um estilo de artigos rico em referências;
+- Mantenha e aprimore formatação markdonw;
+- Citações diretas devem estar em itálico;
+- Se pertinente adicione mais citações verificáveis (bíblias e Ellen White);
+- Preservar e aprimorar recurso retórico de forma forte: hipérbole teológica deliberada.
+- Preservar e aprimorar contraste rardical (ex: viver sem pecar × vitória sobre o pecado; COM Cristo × EM Cristo...);
+- Preservação e aprimoramento das repetições retóricas - de forma eloquente;
+- Manter o tom de sermão - mas garantir leitura boa como artigo;
+- Manter e melhoria de impacto argumentativo;
+Tudo isso objetivando a eloquência argumentativa. Devolva em código de bloco. Segue:
