@@ -2,7 +2,7 @@
 
 [Texto de ege falando que era possível a adão antes do pecado não pecar - então sdepois, não]
 
-Então é possível viver sem pecar. E isso significa apenas uma úunica coisa, viver sem pecar náo é a mesma coisa que vitória sobre o pecado. Vencer o pecado é, com viamos acimar, um atribuito totalmente indepenpendente de ação ou mérito humano. Cristo venceu o pecado! Cristou derrocou o pecado na cruz, porque Ele viveu se pecado, e pagou, na cruz o preço que nós deverísmo ter pago, ou seja, viver sem pegar. Quando você e eu nos entregamos de verdeira, ineirmente, e sem restrição ã Deus, então a vitória de cristo sobre o pecado, também é nossa, sem que nós mesmo tenhamos feeito esforço algum! A vitória sobre o pecado nada te  a ver com deixar de pecar, mas sobre vencer a dívida, vencer o PODER LEGAL que o pecado tem sobre cada um de nós, e isso, em cristo, é obtido.
+Então é possível viver sem pecar. E isso significa apenas uma úunica coisa, viver sem pecar náo é a mesma coisa que vitória sobre o pecado. Vencer o pecado é, com viamos acimar, um atribuito totalmente indepenpendente de ação ou mérito humano. Cristo venceu o pecado! Cristou derrocou o pecado na cruz, porque Ele viveu sem pecado, e pagou, na cruz o preço que nós deverísmo ter pago, ou seja, viver sem pegar. Quando você e eu nos entregamos de verdeira, ineirmente, e sem restrição ã Deus, então a vitória de cristo sobre o pecado, também é nossa, sem que nós mesmo tenhamos feeito esforço algum! A vitória sobre o pecado nada te  a ver com deixar de pecar, mas sobre vencer a dívida, vencer o PODER LEGAL que o pecado tem sobre cada um de nós, e isso, em cristo, é obtido.
 
 Mas, as coisas não param por aí
 
@@ -20,7 +20,7 @@ Está escrito que Deus "fez o homem a sua imagem a semelhança". Quando Deus diz
 
 A pergunta é: você é a perfeita imagem e semelhanca de Deus? Porque se vocÊ nAo for, você está em pecado, você está trangredindo um mandamento, e MAIS, está depravando a imgem de Deus.
 
-VocÊ acha que com estas rugas, ou esta calvice, ou este cabela branco, vopcE reflete PERFEITAMENTE a imagem e semelhança de Deus?
+VocÊ acha que com estas rugas, ou esta calvice, ou este cabela branco, você reflete PERFEITAMENTE a imagem e semelhança de Deus?
 
 Nós aprendemos por muito tempo que o pecado reside não em o passarinho rodar nossa cabeça mas em ele fazer ninho ela correto? Mas eu pergunto, os anjos de Deus, mesmo observando todasa as coisas erradas deste mundo,será que sequer passa, de relance algum pensamento pecaminoso na cabeça deles? Você entende o que quero dizer? Você relamente não consegue impedir as moscas de ficarem a sua volta, mas elas só ficam a volta do que está podre!
 
@@ -34,7 +34,7 @@ Então, quando alguém me diz que é possível viver sem pecar, ou sua a express
 
 É por isso que está escrito no apoalipse que "lavaram suas vestes no sangue do Cordeiro", ela foram braqueadas, não porque eles conseguiram permancer sem as sujar,, mas porque as lavaram no sangue de do cordeiro. Como poucos textos antes é dito: ""Depois destas coisas olhei, e eis aqui uma grande multidão... vestidos de vestes brancas e com palmas nas suas mãos" Apocalipse 7:9."
 
-Por iso, em Judas, vemos que é Jesus  "que é poderoso para vos guardar de tropeçar e apresentar-vos irrepreensíveis (sem mancha), com alegria, perante a sua glória". Ou seja, somente Jesus pode nos apresentar SEM mancha, com vestiduras brancas, pois, nós como somos, mesmo com esfoço e atuação do Espírito SAnto, somos pela nossa própria existência: lixo desprezível.
+Por iso, em Judas, vemos que é Jesus  "que é poderoso para vos guardar de tropeçar e apresentar-vos irrepreensíveis (sem mancha), com alegria, perante a sua glória". Ou seja, somente Jesus pode nos apresentar SEM mancha, com vestiduras brancas, pois, nós como somos, mesmo com esfoço e atuação do Espírito SAnto, somos pela nossa própria existência: lixo desprezível - não a toa dDeus chama nossa justica (ou seja, o que há de bom em nós) de imundícia (Isaías 64:6).
 
 Também em Efésios é tido: "para a apresentar a si mesmo igreja gloriosa, sem mácula, nem ruga, nem coisa semelhante, mas santa e irrepreensível" Efésios 5:27.
 
@@ -42,7 +42,7 @@ Veja, que em nenhum destes textos é dito, que ELE nos torna irrepreensíveis, m
 
 A questão que ainda permance é se você se conformou em ser o que é, ou não! Porque Deus não te obrigará a mudar. Por isso Jesus mesmo manda você ser perfeito. ELe manda você ser perfeito em sua esfera, ou seja, na esfera humana, que a de ser a perfeita imagem e semalhança de Deus. Você tem sido a perfeita imagem e semelhanca de Deus?
 
-Eu tenho um problema muito grande quando tentam dizer que é possível viver sem pecar, e quando tentam aplicar a ideia de que vitória sobre precado, é vocÊ pelo poder do espo[irito santo, não pecar mais. Isso obviamente cntraria totalmente o sendo do que a bíblia ensino o que é pecado, e de quão santo é Deus. Nós perdemos a ideia de Santidade.
+Eu tenho um problema muito grande quando tentam dizer que é possível viver sem pecar, e quando tentam aplicar a ideia de que vitória sobre precado, é vocÊ pelo poder do espírito santo, não pecar mais. Isso obviamente contraria totalmente o sendo do que a bíblia ensino o que é pecado, e de quão santo é Deus. Nós perdemos a ideia de Santidade.
 
 Lembre-se que est';a escrito, que quando Jesus voltar, a mera presença Dele, será capaz de exterminar os ímpio. Sim! É exatamente isso. POr isso a bíblia fala "Vigiai, pois, em todo o tempo, orando, para que vos sejais havidos por dignos de escapar de todas estas coisas que hão de acontecer, e para que possais estar em É diante do Filho do Homem." A mera presença de Deus, extermina qualquer coisa que não seja pura e sem mácula. E é por isso que devemos orar, para sermos capazes de suportar a presença de Jesus. Hoje, nóa perdemos completamente a noção de quão santo é Deus!
 
@@ -61,7 +61,7 @@ O Conformismo tomou conta da nossa igreja, e não é a toa está escrito que "a 
 
 Provérbios 12:1: "O que ama a instrução ama o conhecimento, mas o que odeia a repreensão é estúpido".
 
-rovérbios 15:10: "Disciplina severa há para o que deixa a vereda, e o que aborrece a repreensão morrerá". 
+Provérbios 15:10: "Disciplina severa há para o que deixa a vereda, e o que aborrece a repreensão morrerá". 
 
 É comum ouvir de irmão que devemos pregar sobre amor e sobre Jesus, mas eles esquecer o que ester termos representam, esquece que amor náo é docura nem amabilidade, e que Jesus, é Justo juiz, e fogo consumidor. Na verdade, o quel eles quertem é apenas socializar, sermões francos, que passem a mão na caveça, uma meditaCão. Mas se é isso que vbocê quer, o cristianismo não é para você! Lugar socializar, amabilidade, docilidade é no kardecismo, lá é o lugar. Que apenas uma um lugar para confraternizar, refletir e relaxar, faca iogo. Vocêr que que eu fale sobre Jesus, então vamos lá:
 
@@ -84,7 +84,7 @@ COnsulte a bíblia inteira, o novo testamento inteiro. Jesus somente falva a ver
 As pessoas seguiam a jesus, claro que seguim, mas quase ninguém e ouse até supor que ninguem, seguia por conta do que ele ensinava. AS pessoas seguim Jesus por conta do milagras, por conta das multiplicações pães.
 COnsulte, leia pormvocê mesmo. Toda vez que Jesus abri boca, algué saia ofendido, algué saia magoado. Porque a verdade ofenda.
 Nunca confunda amor com docilidade! NUnca ocnunda amor com amabilidade.
-Se você quer apenas confraternizar e praicar uma atividade de relaxamento, cristinismo não é o luygar para você, a não se que você queira um cristinismo falso. 
+Se você quer apenas confraternizar e praicar uma atividade de relaxamento, cristinismo não é o lugar para você, a não se que você queira um cristinismo falso. 
 E não recisa ir longe, basta ler um versículo e pular 5. EStá cheio, mas muito cheio de ighrejas que pregam e ensinam um falso cristianismo, um cristinosmo manco.
 LEia os serm,ões e pregações de jesus. Usando o jargão poupar, Jesus nunca teve "papas na lingua", pode procurar em qualquer cultura, desde da grácias, até os nórdicos, e africanos, em nenhum lugar do mundo, ser chamado de víbora e algo trivial ou banal. Jesus foi enfático, grosseiro, e certeiro! QAuando Jesus foi curto e groso com pedreito, ao declarar: "afáta-te de mim Satanas" não faltou amor, mas Ele nAo foi dócil, nem amável. Não confunda isso. Jesus não foi crucificado por ser uma pessoa delicada, cortez, amável e décil, ele foi cruficidado por repreender a todos que ele Ama. Amor, náo é falar fofinho.
 
@@ -94,3 +94,37 @@ Quando priscila mentiu ao espírito santo, no novo testamento, foi aos pés dos 
 É Jesus que disse que a maiorrai se perderá e é ele que virá nos Céus, distruir com Seu sorpo a maioria.
 
 Então irmão, quer sermãozinho para relxar, deixe de ser de ser enganr, porque vocÊ já não é cristão.
+
+## Viver COM mas não EM Jesus
+
+É possível viver com Jesus, e ter o Seu poder e ainda assim estar salvo? Claro que sim!
+
+> ²⁰ conhecereis. ²¹ Nem todo o que me diz: Senhor, Senhor! entrará no reino dos céus, mas aquele que faz a vontade de meu Pai, que está nos céus. ²² Muitos, naquele dia, hão de dizer-me: Senhor, Senhor! Porventura, não temos nós profetizado em teu nome, e em teu nome não expelimos demônios, e em teu nome não fizemos muitos milagres? ²³ Então, lhes direi explicitamente: nunca vos conheci. Apartai-vos de mim, os que praticais a iniquidade. (Mateus 7:21-23)
+
+A bíblia diz claramente que estas pessoas coonversavam com Deus, ou seja, oravam, profetizavam, e realizavam milagres, ou seja. Eles estavam com Jesus, e mais, tinham o poder de Jesus! Mas eles NÃO ESTAVAM em Jesus.
+
+E este é o ponto importante. A perfeição, o viver sem percar não é um estado, ou um status, que eu ou vocE conquitamos pela "união do esforço humano ao poder divino", como ocorre na etapa de santificação. Não, de forma alguma! Escute bem: a perfeição é uma LOCALIZAÇÃO.
+
+> ²⁸ o qual nós anunciamos, advertindo a todo homem e ensinando a todo homem em toda a sabedoria, a fim de que apresentemos todo homem perfeito EM Cristo. Colossenses 1:28
+
+A chave deste texto está na minúscula preposição grega "EM" (ἐν). Paulo não diz que somos perfeitos por nós mesmos, mas "em Cristo".
+
+1. **Por que não "Por" ou "Através de"?**:Se fosse "Por" Cristo, a perfeição seria um prêmio que Ele nos dá e nós carregamos sozinhos. Se fosse "Através de", Cristo seria apenas um meio ou uma escada para o nosso próprio esforço. Sendo "Em", a perfeição é um local. Você só é perfeito enquanto está unido a Ele. É a "perfeição de lugar".
+
+2. **A Identidade Em**: No grego, estar en Christō significa união vital. Deus não olha para as suas falhas isoladas; Ele olha para o "Corpo de Cristo" onde você está inserido. O seu pecado é uma falha de condição humana, mas sua posição espiritual em Jesus permanece intacta.
+
+3. **O Autor e a Perfeição**: O homem entra com a fé, Deus entra com a aceitação, e Cristo é o espaço onde essa perfeição acontece. Você não "alcança" a perfeição; você habita nela.
+
+### O que isto significa?
+
+> ¹³ vieram? ¹⁴ Respondi-lhe: meu Senhor, tu o sabes. Ele, então, me disse: São estes os que vêm da grande tribulação, lavaram suas vestiduras e as alvejaram no sangue do Cordeiro, Apocalipse 7:14
+
+A sua segurança não depende do que você faz, mesmo que seja feito em união ao poder Divino, mas está  onde você está. Ser perfeito é estar escondido em Jesus. É estar sob o guarda-chuva de parfeitção, mesmo que vocë ainda seja imperfeito, mesmo que vocë ainda peque, ao estar sob o manto da justiça, ao estar vestido com as verstiduras brancas LAVADAS no Sangue do Cordeiro, náo lavadadas COM o sangue do Cordeiro, nem pelo Sangue do Cordeiro. Você Nunca entrará no céu com uma veste branca que vocë mesmo alvejou utilizando o sango do cordeiro, entende? O sangue do cordeiro não é um poder ou um instrumento, mas um local.
+
+Perfeição náo é o seu esforço em lavar as vestes UNIDO ao mais pontento alvejante! Mas sim sua DECISãO de lavar NO local: o sangue do cordeiro, a cruz!
+
+⁵ Eu sou a videira, vós, os ramos. Quem permanece em mim, e eu, nele, esse dá muito fruto; porque sem mim nada podeis fazer. João 15:5
+
+# Apelo
+
+Quero lembrar você do Hino graça do Arautos do Rei que diz: "A Graça é um ponto de Encontro. Lugar onde os fardos de espalhos no chão. Onde todo que chega cansado, tranquilo desansa o seu coração..."
