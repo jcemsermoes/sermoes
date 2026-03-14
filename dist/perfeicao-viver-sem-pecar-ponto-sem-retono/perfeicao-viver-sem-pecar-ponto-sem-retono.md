@@ -125,6 +125,9 @@ Perfeição náo é o seu esforço em lavar as vestes UNIDO ao mais pontento alv
 
 ⁵ Eu sou a videira, vós, os ramos. Quem permanece em mim, e eu, nele, esse dá muito fruto; porque sem mim nada podeis fazer. João 15:5
 
+> A planta NÁO está em contínua apreensão acerca de seu crescimento; cresce simplesmente sob a supervisão de Deus.
+> — MM Minha Consagração Hoje 1952, 09 de Abril, p. 184
+
 # Apelo
 
 Quero lembrar você do Hino graça do Arautos do Rei que diz: "A Graça é um ponto de Encontro. Lugar onde os fardos de espalhos no chão. Onde todo que chega cansado, tranquilo desansa o seu coração..."
