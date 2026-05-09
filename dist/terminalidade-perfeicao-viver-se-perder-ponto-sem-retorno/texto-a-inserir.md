@@ -1,0 +1,12 @@
+> Ele é um PERFEITO e santo Exemplo, dado a nós para imitação. NÃO podemos nos IGUALAR ao Modelo; mas NÃO seremos APROVADO por Deus se não O IMITARMO e nos ASSEMELHARMO a Ele, de acordo com a CAPACIDADE que o Senhor nos dá.
+ > — Testemunhos para a Igreja II - Censura ao Egoímo, p.486/549
+
+> Se está no coração obedecer a Deus, SE são feitos ESFORÇOS nesse sentido, Jesus ACEITA esta disposição e ESFORÇO como o melhor serviço do homem, e SUPRE a DEFICIÊNCIA, com Seu próprio mérito divino. Ele NÃO aceitará os que ALEGAM ter fé nEle e no entanto são DESLEAI ao mandamento de Seu Pai. Muito ouvimos acerca de fé, mas precisamos ouvir MUITO MAIS acerca de OBRAS. Muitos estão a enganar a própria alma, vivendo uma religião FÁCIL, ACOMODATÍCIA, sem cruz. Mas diz Jesus: "Se alguém quiser vir após Mim, renuncie-se a si mesmo, tome sobre si a sua cruz, e siga-Me.”
+> — Mensagens Escolhidas - Relação da fé com as obras, p. 361/382 e 362'.
+
+> Devemos lembrar que nossos próprios caminhos não são perfeitos. Cometemos repetidamente erros. ... Ninguém, senão Jesus, é perfeito. Pensai nEle, e sede atraídos para fora de vós mesmos e de tudo quanto é desagradável; pois contemplando nossos defeitos a fé se enfraquece. Deus e Suas promessas são perdidos de vista.
+> — Meditação Matinal Para Conhecê-lo, 10 de Maio.
+> — Manuscrito 24, 1892
+
+> Os cultos, as orações, o louvor, a penitente confissão do pecado, sobem dos crentes fiéis, qual incenso ao santuário celestial, MAS passando através dos corruptos canais da humanidade, FICAM TÃO maculados que, a menos que sejam purificados por SANGUE, JAMAIS podem ser de valor perante Deus. NÃO ASCENDEM em imaculada PUREZA, e A MENOS que O intercessor, que está à mão direita de Deus, apresente e APRESENTE tudo por SUA JUSTIÇA, NÃO SERÁ ACEITÁVEL a Deus. TODO o incenso dos tabernáculos terrestres têm de umedecer-se com as purificadoras GOTAS do SANGUE de Cristo. Ele segura perante o Pai o incensário de SEUS próprios MÉRITOS [enquanto ainda está no santuário], nos quais não há mancha de corrupção terrestre. Nesse incensário reúne Ele as orações, o louvor e as confissões de Seu povo, juntando-lhes SUA própria JUCSTIÇA imaculada. ENTÃO, perfumado com os méritos da propiciação de Cristo, o incenso ASCENDE perante Deus completa e inteiramente ACEITÁVEL. Voltam então graciosas respostas.
+> — Mensagens Escolhidas - Cristo, nosso sumo sacerdote, p. 326/344 e 327.
