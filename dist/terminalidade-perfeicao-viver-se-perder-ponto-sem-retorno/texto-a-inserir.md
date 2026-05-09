@@ -23,3 +23,9 @@
 
 > A salvação, nesse caso, consiste em parte numa dívida, que pode ser quitada com o pagamento. Se o homem não pode, por qualquer de suas boas obras, merecer a salvação, então ela tem de ser inteiramente pela graça, recebida pelo homem como pecador, porque ele aceita a Jesus e crê nEle. A salvação é inteiramente um dom gratuito. A justificação pela fé está fora de controvérsia. E toda essa discussão estará terminada logo que seja estabelecida a questão de que os méritos do homem caído, em suas boas obras, jamais poderão obter a vida eterna para ele.
 > — Fé e obras - Ellen G. White esclarece as questões, p. 15.
+
+> NÃO devemos estar ansiosos acerca do que Cristo e Deus PENSAM de nós, mas do que Deus PENSA de Cristo, nosso Substituto. Vós sois aceitos no Amado. O Senhor mostra, aos contritos, crentes, que Cristo aceita a entrega da alma, para ser moldada e afeiçoada segundo a Sua imagem.
+> — Menságens Escohidas - A doutrina da "carne santa", p. 36/33.
+
+> O caráter se revela, não por boas ou más ações ocasionais, mas pela tendência das palavras e atos costumeiros.
+> — Caminho a Cristo - A obediência é um privilégio, p. 56/57.
