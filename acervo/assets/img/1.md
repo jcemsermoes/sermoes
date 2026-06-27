@@ -1,4 +1,4 @@
 > **NÃO** vos **assenteis** na **poltrona de Satanás**, <u>**dizendo**</u> QUE **não adianta**, QUE **não podeis DEIXAR** de pecar, QUE **<u>não</u> há** em vós poder para vencer. _[a ordem é clara: jamais afirmar algo assim]_ <u>**Não há poder em vós, SEPARADOS DE CRISTO**</u>, _[logo, **há poder unido em Cristo**, o que é dito em seguida]_ MAS **tendes** o privilégio **de ter Cristo PERMANENTEMENTE** em vosso coração **pela FÉ** e Ele **pode vencer o pecado EM VÓS**, <u>quando **com</u> Ele COOPERARDES**. ... **PODEIS** ser **cartas vivas**, conhecidas e lidas por todos os homens. **NÃO** deveis ser **cartas mortas**, mas vivas, **testificando** perante o **MUNDO** que **Jesus É CAPAZ de salvar** _[note como o contexto de "**salvar**" <u>**é**</u> inquestionávelmente **sobre DEIXAR de pecar** <u>perante</u> um **mundo pecador**, logo, **Jesus É CAPAZ de Salvar da PRÁTICA** do pecado]_.<br/>
 > — MM Nossa Alta Vocação - O privilégio da certeza, 11 de Março 11 de Março, p. 71/158<br/>
 > — The Youth’s Instructor, 29 de Junho de 1893.<br/>
-> \*\* Destauqes e colchetes nossos
+> \*\* Destaques e colchetes nossos
